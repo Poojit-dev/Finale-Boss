@@ -54,6 +54,7 @@ li a:hover{
 	background-color: #3a3d40;
 }
 #hero h1{
+	text-align:center;
 	font-size: 2.7rem;
 	margin: 0;
 	font-family: 'Poppins', sans-serif;
@@ -187,8 +188,8 @@ a {
 	}
     .card{
     	margin-bottom: 10px;
-    	height: 30vw;
-	width: 50vh;
+    	height: 70vw;
+	width: 80vh;
     }
     #hero h1{
     	font-size: 2.3rem;
