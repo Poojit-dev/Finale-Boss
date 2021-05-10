@@ -176,12 +176,14 @@ a {
 }
 @media (max-width: 1000px){
 	.projects{
-		/*grid-template-columns: 1fr;
-	grid-template-rows: 1fr;*/
+/* 		grid-template-columns: 1fr;
+	grid-template-rows: 1fr; */
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	width:100vw;
+	height:100vh;
 	}
     .card{
     	margin-bottom: 10px;
