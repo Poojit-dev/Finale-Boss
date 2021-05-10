@@ -13,7 +13,7 @@ nav{
 	display: flex;
 	justify-content: flex-end;
 	align-items: center;
-	width: 100%;
+	width: 100vw;
 	background-color: #be3144;
 	height:11vh;
 	margin: 0;
@@ -49,7 +49,7 @@ li a:hover{
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	width: 100%;
+	width: 100vw;
 	height: 100vh;
 	background-color: #3a3d40;
 }
@@ -67,7 +67,7 @@ li a:hover{
 	font-size: 1.7rem;
 }
 #work{
-	width: 100%;
+	width: 100vw;
 	height: 100%;
 	background-color: #45567d;
 }
